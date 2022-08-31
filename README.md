@@ -1,2 +1,2 @@
-# lgehmacpl-mod
-Modded LG HM Audio Control Panel
+# Modded LG HM Audio Control Panel
+
